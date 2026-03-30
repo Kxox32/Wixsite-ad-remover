@@ -7,5 +7,5 @@ Removes ads from wix.com sites using python with beautifulsoup4
 
 
 ## For linux:
-For Arch:
+For Arch:  
 `pacman -S python-beautifulsoup4`
